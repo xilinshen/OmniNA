@@ -10,12 +10,14 @@
 </div>      
 <h2>📋 Overview</h2>     
 <p> OmniNA is a foundation generative model designed for comprehensive nucleotide sequence learning. OmniNA is pre-trained on all nucleotide sequences and the corresponding annotations obtained from NCBI nucleotide database. The model can be fine-tuned for various genomic tasks.</p>
+    
 <h2>✨ Features</h2>
 <ul>
 <li>Pre-trained on 91.7 million nucleotide sequences from various species.</li>
 <li>Fine-tuned across 17 tasks, achieving state-of-the-art performance.</li>         
 <li>Designed to be scalable and accessible to users of all expertise levels.</li>     
 </ul>
+
 <h2>🔗 Model Variants</h2>
 <p>OmniNA comes in three variants with different parameter scales to meet various needs:</p>
 <table>
@@ -29,6 +31,7 @@
 <tr><td>OmniNA-1.7B</td><td>24</td><td>32</td><td>1.7 Billion</td></tr>
 </tbody>
 </table>      
+
 <h2>🔨 Installation</h2>
 <p>Required packages can be installed using:</p>
 <pre><code>pip install datasets
@@ -40,8 +43,8 @@ pip install tensorboardX</code></pre>
 <pre><code>XLS/OmniNA-220m
 XLS/OmniNA-66m 
 </code>
-<p>OmniNA-1.3b will be available soon.</p>
 </pre>      
+<p>OmniNA-1.3b will be available soon.</p>
 <h2>🌸 Training</h2>
 <h3>Prepare Data</h3>
 <p>Following these steps to prepare your data:</p>
