@@ -35,10 +35,10 @@
 <h2>🔨 Installation</h2>
 <p>Required packages can be installed using:</p>
 <pre><code>pip install datasets
-pip install torch
-pip install transformers
-pip install accelerate
-pip install tensorboardX</code></pre>
+pip install torch==2.3.1
+pip install transformers==4.41.2
+pip install accelerate==0.31.0
+pip install tensorboardX==2.6.2.2</code></pre>
 <p>To utilize the pre-trained OmniNA model, begin by cloning the Hugging Face repository:</p>
 <pre><code>XLS/OmniNA-220m
 XLS/OmniNA-66m 
