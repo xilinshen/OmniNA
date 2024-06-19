@@ -42,8 +42,7 @@ pip install tensorboardX</code></pre>
 <p>To utilize the pre-trained OmniNA model, begin by cloning the Hugging Face repository:</p>
 <pre><code>XLS/OmniNA-220m
 XLS/OmniNA-66m 
-</code>
-</pre>      
+</code></pre>      
 <p>OmniNA-1.3b will be available soon.</p>
 <h2>🌸 Training</h2>
 <h3>Prepare Data</h3>
