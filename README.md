@@ -115,13 +115,12 @@ XLS/OmniNA-66m
 
 <h2>📚 Citation</h2>     
 <p>If you use OmniNA in your research, please cite our work:</p>     
-<pre><code>@article{omniNA2023,
+<pre><code>@article{Shen2024.01.14.575543,
 title={OmniNA: A Foundation Model for Nucleotide Sequences},
-author={John Doe and Jane Smith},
-journal={Bioinformatics Journal},
-year={2023},
-volume={10},
-pages={123-134}}</code></pre>      
+author={Xilin Shen, Xiangchun Li},
+journal={bioRXiv},
+year = {2024},
+doi = {10.1101/2024.01.14.575543}}</code></pre>      
 
 <h2>🌟 Acknowledgement</h2>     
 <p>The codebase we built upon is adapted from <a href="https://github.com/meta-llama/llama">Llama</a>. We thank the original authors for their valuable contributions!</p>     
