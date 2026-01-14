@@ -40,10 +40,11 @@ pip install transformers==4.41.2
 pip install accelerate==0.31.0
 pip install tensorboardX==2.6.2.2</code></pre>
 <p>To utilize the pre-trained OmniNA model, begin by cloning the Hugging Face repository:</p>
-<pre><code>XLS/OmniNA-220m
+<pre><code>XLS/OmniNA-1.7B
+XLS/OmniNA-220m
 XLS/OmniNA-66m 
 </code></pre>      
-<p>OmniNA-1.3b will be available soon.</p>
+<p></p>
 <h2>🌸 Training</h2>
 <h3>Prepare Data</h3>
 <p>Following these steps to prepare your data:</p>
