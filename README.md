@@ -14,7 +14,7 @@
 <h2>✨ Features</h2>
 <ul>
 <li>Pre-trained on 91.7 million nucleotide sequences from various species.</li>
-<li>Fine-tuned across 17 tasks, achieving state-of-the-art performance.</li>         
+<li>Fine-tuned across 23 tasks, achieving state-of-the-art performance.</li>         
 <li>Designed to be scalable and accessible to users of all expertise levels.</li>     
 </ul>
 
